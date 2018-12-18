@@ -2,6 +2,7 @@
 
 ## Contact Info
 Office: Boone 102E<br>
+Email: jpreszler@collegeofidaho.edu <br>
 Office Hours: Before and after class, and by appointment.
 
 ## Resources (textbooks, etc.)
