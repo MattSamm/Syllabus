@@ -12,6 +12,7 @@ Office Hours: Before and after class, and by appointment.
  * [RStudio CheatSheets](https://www.rstudio.com/resources/cheatsheets/): We'll being using `dplyr`, `tidyr`, `stringr`, `ggplot2`, and `RMarkdown` heavily in this course.
  * the College of Idaho's RStudio Server at (https://rstudio.collegeofidaho.edu)
  * More readings and resources in the *Resources* folder of this repo
+ * Similar textbook for Python based course: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Course Content
 This course is about manipulating and visualizing data to gain insight and prepare the data for modeling or other purposes. We will cover the following topics:
