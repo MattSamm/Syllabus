@@ -1,12 +1,11 @@
 # Syllabus
 
 ## Contact Info
-Office: Boone 102E
-Email: jpreszler@collegeofidaho.edu (best contact outside class)
+Office: Boone 102E<br>
 Office Hours: Before and after class, and by appointment.
 
 ## Resources (textbooks, etc.)
- * Textbook: [*R for Data Science*](https://r4ds.had.co.nz/) by Wickham and Gorlemund
+ * Textbook: [*R for Data Science*](https://r4ds.had.co.nz/) by Wickham and Grolemund
  * [GitHub CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf)
  * [RStudio CheatSheets](https://www.rstudio.com/resources/cheatsheets/): We'll being using `dplyr`, `tidyr`, `stringr`, `ggplot2`, and `RMarkdown` heavily in this course.
  * the College of Idaho's RStudio Server at (https://rstudio.collegeofidaho.edu)
