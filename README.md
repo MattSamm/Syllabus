@@ -6,9 +6,12 @@ Office Hours: Before and after class, and by appointment.
 
 ## Resources (textbooks, etc.)
  * Textbook: [*R for Data Science*](https://r4ds.had.co.nz/) by Wickham and Grolemund
+ * [Git Guide](http://rogerdudler.github.io/git-guide/) - Read this first!
+ * [GitHub Guide](https://guides.github.com/introduction/git-handbook/) - Read Second.
  * [GitHub CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf)
  * [RStudio CheatSheets](https://www.rstudio.com/resources/cheatsheets/): We'll being using `dplyr`, `tidyr`, `stringr`, `ggplot2`, and `RMarkdown` heavily in this course.
  * the College of Idaho's RStudio Server at (https://rstudio.collegeofidaho.edu)
+ * More readings and resources in the *Resources* folder of this repo
 
 ## Course Content
 This course is about manipulating and visualizing data to gain insight and prepare the data for modeling or other purposes. We will cover the following topics:
