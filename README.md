@@ -48,6 +48,8 @@ There will be almost daily homework to practice what has been learned up through
 The course will require each student to complete a significant project involving the acquisition, cleaning, manipulation, and visualization of a complex data set. Due to the compressed nature of the Winter term, little class time will be devoted to the projects so expect to work on them outside class. On the last day of the term, students will present their projects, including discussing how data was acquired, what was involved in cleaning and formatting the data, why various visualizations were produced, and what has been learned from the visualizations.
 
 ## Grading
-* In-class activities and participation - 30%
-* Homework and presentation of solutions - 30%
-* Project report and presentation - 40%
+Item | Weight
+-----|-------
+In-class activities and participation | 30%
+Homework and presentation of solutions | 30%
+Project report and presentation | 40%
