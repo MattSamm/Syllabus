@@ -7,6 +7,7 @@ Office Hours: Before and after class, and by appointment.
 
 ## Resources (textbooks, etc.)
  * Textbook: [*R for Data Science*](https://r4ds.had.co.nz/) by Wickham and Grolemund
+ * [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
  * [Git Guide](http://rogerdudler.github.io/git-guide/) - Read this first!
  * [GitHub Guide](https://guides.github.com/introduction/git-handbook/) - Read Second.
  * [GitHub CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf)
