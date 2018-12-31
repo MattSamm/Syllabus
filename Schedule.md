@@ -24,9 +24,11 @@
  * 4.4.1 problems 1-2
 
 ## Day 2, Fri. 1/4
+- [ ] Chapter 3 homework presentation
 - [ ] `dplyr` big 6 verbs: `filter` `arrange` `select` `mutate` `group_by` and `summarise`
 - [ ] Activity with dplyr verbs and more ggplot practice.
 - [ ] Exploratory data analysis
+- [ ] `tidyr` big 4: `separate` `unite` `gather` and `spread`
 
 ### HW
  * read chapters 5-8
@@ -38,7 +40,7 @@
  * 5.7.1 problems 1-8, present 5,6
  * 7.3.4 problems 1-4
  * 7.4.1 problems 1-2
- * 7.5.1.1 problems 
+ * 7.5.1.1 problems
 
 ## Day 3, Mon. 1/7
 
