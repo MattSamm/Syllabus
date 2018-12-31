@@ -30,7 +30,15 @@
 
 ### HW
  * read chapters 5-8
- *
+ * 5.2.4 problems 1-4, present 1
+ * 5.3.1 problems 1-4, present 4
+ * 5.4.1 problems 1-4, present 1
+ * 5.5.2 problems 1-6, present 4
+ * 5.6.7 problems 1-6, present 4
+ * 5.7.1 problems 1-8, present 5,6
+ * 7.3.4 problems 1-4
+ * 7.4.1 problems 1-2
+ * 7.5.1.1 problems 
 
 ## Day 3, Mon. 1/7
 
