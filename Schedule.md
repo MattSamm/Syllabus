@@ -1,7 +1,7 @@
 # Schedule
 
 ## Before First Day
-- [ ] Have students create GitHub account with @yotes.collegeofidaho.edu email.
+- [ ] Have students create GitHub account with `@yotes.collegeofidaho.edu` email.
 - [ ] Set-up RStudio Server global git config for all students
 - [ ] Have students look at Syllabus repo README
 - [ ] Read *Git Guide* linked to in Syllabus README
@@ -27,8 +27,8 @@
 - [ ] Chapter 3 homework presentation
 - [ ] `dplyr` big 6 verbs: `filter` `arrange` `select` `mutate` `group_by` and `summarise`
 - [ ] Activity with dplyr verbs and more ggplot practice.
-- [ ] Exploratory data analysis
 - [ ] `stringr` basics and regular expressions
+- [ ] Exploratory data analysis
 
 ### HW
  * read chapters 5-8
