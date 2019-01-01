@@ -28,7 +28,7 @@
 - [ ] `dplyr` big 6 verbs: `filter` `arrange` `select` `mutate` `group_by` and `summarise`
 - [ ] Activity with dplyr verbs and more ggplot practice.
 - [ ] Exploratory data analysis
-- [ ] `tidyr` big 4: `separate` `unite` `gather` and `spread`
+- [ ] `stringr` basics and regular expressions
 
 ### HW
  * read chapters 5-8
@@ -43,6 +43,10 @@
  * 7.5.1.1 problems
 
 ## Day 3, Mon. 1/7
+- [ ] Homework presentations
+- [ ] Definition of Tidy Data
+- [ ] `tidyr` big 4: `separate` `unite` `gather` and `spread`
+- [ ] Activity with `tidyr`
 
 ### HW
 
