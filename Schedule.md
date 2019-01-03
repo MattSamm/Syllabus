@@ -1,9 +1,9 @@
 # Schedule
 
 ## Before First Day
-- [ ] Have students create GitHub account with `@yotes.collegeofidaho.edu` email.
+- [x] Have students create GitHub account with `@yotes.collegeofidaho.edu` email. (Need Aurora and Mbongi...)
 - [ ] Set-up RStudio Server global git config for all students
-- [ ] Have students look at Syllabus repo README
+- [x] Have students look at Syllabus repo README
 - [ ] Read *Git Guide* linked to in Syllabus README
 
 ## Day 1, Thurs. 1/3
@@ -12,7 +12,7 @@
 - [ ] Personal World Map
 - [ ] Grammar of Graphics Basics
 
-### HW
+### HW [GitHub Classroom Assignment link](https://classroom.github.com/a/CHkNOHdE)
  * read chapters 1-4
  * 3.2.4 problems 1-5, present 4
  * 3.3.1 problems 1-6, present 1
@@ -31,7 +31,7 @@
 - [ ] Exploratory data analysis
 
 ### HW
- * read chapters 5-8
+ * read chapters 5-7.4
  * 5.2.4 problems 1-4, present 1
  * 5.3.1 problems 1-4, present 4
  * 5.4.1 problems 1-4, present 1
