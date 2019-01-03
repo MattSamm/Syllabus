@@ -1,14 +1,14 @@
 # Schedule
 
 ## Before First Day
-- [x] Have students create GitHub account with `@yotes.collegeofidaho.edu` email. (Need Aurora and Mbongi...)
+- [x] Have students create GitHub account with `@yotes.collegeofidaho.edu` email.
 - [ ] Set-up RStudio Server global git config for all students
 - [x] Have students look at Syllabus repo README
-- [ ] Read *Git Guide* linked to in Syllabus README
+- [x] Read *Git Guide* linked to in Syllabus README
 
 ## Day 1, Thurs. 1/3
-- [ ] Course intro, Syllabus, intro to Git
-- [ ] Visualization Examples and critiques
+- [x] Course intro, Syllabus, intro to Git
+- [x] Visualization Examples and critiques
 - [ ] Personal World Map
 - [ ] Grammar of Graphics Basics
 
@@ -30,7 +30,7 @@
 - [ ] `stringr` basics (more in chapter 14 :) )
 - [ ] Exploratory data analysis
 
-### HW 
+### HW
  * read chapters 5-7.4
  * 5.2.4 problems 1-4, present 1
  * 5.3.1 problems 1-4, present 4
